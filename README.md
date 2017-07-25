@@ -1,4 +1,13 @@
+## Image classification on Cifar-10 dataset
+
+This project is my practice on using the tensorflow library to train a CNN network on the cifar-10 dataset. 
+
+The accuracy can reach 72%, which is not too bad for such a shallow model (only two CNN + maxpool layers and two fully connected layers and dropout layer)
+
+
 ## How to run this project on floydhub.com
+
+In order to run this code and train the CNN using the cifar-10, you will need gpu. One of the convenient way is to use floydhub, and the details are as follows. 
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
 
